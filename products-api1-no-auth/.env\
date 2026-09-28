@@ -1,4 +1,0 @@
-PORT=4000
-MONGO_URI=mongodb://localhost:27017/products-api-v1
-TEST_MONGO_URI=mongodb://localhost:27017/products-api-v1-testPORT=4000
-MONGO_URI=mongodb://localhost:27017/products-api-v1
